@@ -1,3 +1,2 @@
-#Car landing page
--demo
-https://best-car.netlify.app/
+# car landing page
+ demo https://best-car.netlify.app/
